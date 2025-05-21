@@ -1,6 +1,8 @@
 ###
 
-<h1 align="center">Привет, я блумет</h1>
+<h1 align="center">Hello! I'm bloomet</h1>
+
+<h3 align="center">Computer scince student from ITMO</h3>
 
 ###
 
