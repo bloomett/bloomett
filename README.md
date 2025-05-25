@@ -1,4 +1,4 @@
-###
+![image](https://github.com/user-attachments/assets/2b3c389a-c8ed-4e03-96ca-5cccf194c574)###
 
 <h1 align="center">Hello! I'm bloomet</h1>
 
@@ -28,7 +28,7 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
