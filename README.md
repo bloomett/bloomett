@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/2b3c389a-c8ed-4e03-96ca-5cccf194c574)###
-
 <h1 align="center">Hello! I'm bloomet</h1>
 
 <h3 align="center">Computer scince student from ITMO.</h3>
