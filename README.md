@@ -1,3 +1,5 @@
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <h1 align="center">Hello! I'm bloomet</h1>
 
 <h3 align="center">Computer scince student from ITMO.</h3>
