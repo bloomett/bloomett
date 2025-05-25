@@ -10,6 +10,12 @@
   <a href="https://t.me/bloomett" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="telegram logo"  />
   </a>
+  <a href="https://instagram.com/craptowel" target="_blank">
+    <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+  </a>
+  <a href="https://github.com/bloomett" target="_blank">
+    <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+  </a>  
 </div>
 
 ###
